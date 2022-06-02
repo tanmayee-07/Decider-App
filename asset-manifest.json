@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Decider-App/static/css/main.90605dc8.css",
+    "main.js": "/Decider-App/static/js/main.f23c0a45.js",
+    "index.html": "/Decider-App/index.html",
+    "main.90605dc8.css.map": "/Decider-App/static/css/main.90605dc8.css.map",
+    "main.f23c0a45.js.map": "/Decider-App/static/js/main.f23c0a45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90605dc8.css",
+    "static/js/main.f23c0a45.js"
+  ]
+}
